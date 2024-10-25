@@ -1,0 +1,11 @@
+.banner h1{
+    font-size: 20vh;
+}
+.banner p{
+    font-size: 8vh;
+}
+.products .card{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
